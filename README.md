@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/philt27/Python-Calculator/assets/124879514/7a42e094-1a7c-4c47-95b8-a391209b82af" alt="Sublime's custom image"/>
+  <img src="https://github.com/philt27/Python-Calculator/assets/124879514/dfde909f-e77e-4d81-93c1-8dc538a21250" alt="Sublime's custom image"/>
 </p>
 
 
@@ -27,5 +27,5 @@ while True: print(eval(input('>>>')))
 И затем функция ``` eval() ``` выполняет строку-выражение переданное ей в качестве обязательного аргумента и возвращает результат выполнения этой строки
 
 <p align="center">
-  <img src="https://github.com/philt27/Python-Calculator/assets/124879514/12bdf3a4-eb30-479f-b806-e2f1d6706c72"/>
+  <img src="https://github.com/philt27/Python-Calculator/assets/124879514/9eeaf93b-cc80-4f0f-90b2-50da2dc5484a"/>
 </p>
