@@ -8,7 +8,7 @@
 
 
 ```
-В этом репозитории Реализован калькулятор на Python [за 10 секунд!]
+В этом репозитории Реализован калькулятор простых математических операций на Python [за 10 секунд!]
 ```
 
 Для этого нужно выполнить всего два шага:
@@ -19,5 +19,5 @@
 
 
 <p align="center">
-  <img src="https://github.com/philt27/philt27.github.io/assets/124879514/566ac4f7-ea32-4068-81d9-012003c1df07" alt="Sublime's custom image"/>
+  <img src="https://github.com/philt27/Python-Calculator/assets/124879514/12bdf3a4-eb30-479f-b806-e2f1d6706c72"/>
 </p>
